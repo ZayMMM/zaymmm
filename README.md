@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
-- 💬 Ask me about **Java, Spring, MySQL, OracelSQL, HTML, CSS, Javascript, JQuery**
+- 💬 Ask me about **Java, Spring, MySQL, Oracle SQL, HTML, CSS, JavaScript**
 
 - 📄 Know about my experiences [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
