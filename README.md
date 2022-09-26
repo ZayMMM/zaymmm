@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Java, Spring, MySQL, OracelSQL, HTML, CSS, Javascript, JQuery**
 
-- 📫 How to reach me **zaymaungmaungmyint.info@gmail.com**
-
 - 📄 Know about my experiences [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
 - ⚡ Fun fact **Big Mouth, Man Of Action**
