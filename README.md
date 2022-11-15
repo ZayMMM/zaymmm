@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Health Care Information System**, **Ecommerce Application**
 
-- 🌱 I’m currently learning **Angular, Linux**
+- 🌱 I’m currently learning **Angular, **System Design**
 
 - 👨‍💻 All of my projects are available at [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
