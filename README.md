@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaymmm" alt="zaymmm" /></a> </p>
 
-- 🔭 I’m currently working on **Health Care Information System**
+- 🔭 I’m currently working on **Health Care Information System**, **Ecommerce Application**
 
 - 🌱 I’m currently learning **Angular, Linux**
 
