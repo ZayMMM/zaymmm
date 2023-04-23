@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaymmm" alt="zaymmm" /></a> </p>
 
-- 🔭 I’m currently working on **Meeting Room Booking System**, **Health Care Information System**, **Ecommerce Application**, **Bill Topup Application**
+- 🔭 I’m currently working on **Meeting Room Booking System**, **Health Care System**, **Ecommerce Application**, **Bill Topup Application**
 
 - 🌱 I’m currently learning **MERN Stack**, **System Design**, **Data Structure**
 
