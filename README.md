@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **Big Mouth, Man Of Action**
 
+<br/>
+<a href="https://app.daily.dev/Zay"><img src="https://api.daily.dev/devcards/75a97cb31ef24ac1834dac9b9d48f939.png?r=q7r" width="400" alt="Zay Maung Maung Myint's Dev Card"/></a>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ZayMMMyint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaymmmyint" height="30" width="40" /></a>
