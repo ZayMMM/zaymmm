@@ -31,3 +31,7 @@
 <p>
 <a href="https://app.daily.dev/Zay"><img src="https://api.daily.dev/devcards/75a97cb31ef24ac1834dac9b9d48f939.png?r=q7r" width="400" alt="Zay Maung Maung Myint's Dev Card"/></a>
 </p>
+
+<p align="right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaymmm&show_icons=true&locale=en&layout=compact" alt="zaymmm" />
+</p>
