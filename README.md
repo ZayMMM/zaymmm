@@ -4,8 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaymmm&label=Profile%20views&color=0e75b6&style=flat" alt="zaymmm" /> </p>
 
 <div class="row">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaymmm" alt="zaymmm" /></a> </p>
-  <p align="right"> <ahref="https://app.daily.dev/Zay"><img src="https://api.daily.dev/devcards/75a97cb31ef24ac1834dac9b9d48f939.png?r=q7r" width="400" alt="Zay Maung Maung Myint's Dev Card"/></a> </p>
+  <div class="col-sm-6">
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaymmm" alt="zaymmm" /></a> </p>
+  </div>
+  <div class="col-sm-6">
+    <p align="right"> <ahref="https://app.daily.dev/Zay"><img src="https://api.daily.dev/devcards/75a97cb31ef24ac1834dac9b9d48f939.png?r=q7r" width="400" alt="Zay Maung Maung Myint's Dev Card"/></a> </p>
+  </div>
 </div>
 
 - 🔭 I’m currently working on **Meeting Room Booking System**, **Health Care System**, **Ecommerce Application**, **Bill Topup Application**
