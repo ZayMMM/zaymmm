@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
-- ⚡ Fun fact **Big Mouth, Man Of Action**
+- ⚡ Fun fact **Man Of Action**
 
 
 <h3 align="left">Connect with me:</h3>
