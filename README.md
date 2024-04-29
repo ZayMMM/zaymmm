@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
-- 💬 Ask me about **Java, Spring/ Spring Boot, Database, MySQL, HTML, CSS, JavaScript, Jquery, Bootstrap**
+- 💬 Ask me about **Java, Spring Framework, Spring Boot, Database, MySQL, Node JS, Express JS, HTML, CSS, JavaScript**
 
 - 📄 Know about my experiences [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
