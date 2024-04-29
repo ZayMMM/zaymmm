@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Meeting Room Booking System**, **Health Care System**, **Ecommerce Application**, **Bill Topup Application**
 
-- 🌱 I’m currently learning **MERN Stack**, **System Design**, **Data Structure**
+- 🌱 I’m currently learning **System Design**, **Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
-- 💬 Ask me about **Java, Spring, Database, MySQL, HTML, CSS, JavaScript, Jquery, Bootstrap**
+- 💬 Ask me about **Java, Spring/ Spring Boot, Database, MySQL, HTML, CSS, JavaScript, Jquery, Bootstrap**
 
 - 📄 Know about my experiences [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
