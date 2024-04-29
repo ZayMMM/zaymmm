@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Inventory Management**, **Meeting Room Booking System**, **Health Care System**, **Ecommerce Application**, **Bill Topup Application**
 
-- 🌱 I’m currently learning ***Python*, **System Design**, **Data Structure**
+- 🌱 I’m currently learning **Python**, **System Design**, **Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
